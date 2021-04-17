@@ -25,7 +25,8 @@
    "outputs": [],
    "source": [
     "# Get Access token - Follow the video on how to get access token for your fb account\n",
-    "access_token = \"\""
+    "access_token = \"EAAFLPp1xsqEBAHp3AMoUhtWEeT9H9xglAjfvMt9EPZCISa33uFswxdBIwjPV9O6n8pEZBzpawBCFK13tyCUZCRZBCllRNqI6L89h3ISKgtjLM0vCPR0PxNZAvsgZBZBaW3T9oLZCh0lI8C9SYZBWSdovrTRIJOrRnAQy270HIyUPZAe95htZCUdceQmyosBZB537mWZCTabqNZAYwTWNWYpOzc2EcZAcE5rRfhfRhmQucOouW83R90ZC5KpF9kV2
+"
    ]
   },
   {
